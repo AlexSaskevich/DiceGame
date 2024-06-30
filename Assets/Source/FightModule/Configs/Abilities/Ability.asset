@@ -1,0 +1,108 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2a14694babd248b29765f0401ac45087, type: 3}
+  m_Name: Ability
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes:
+    - Name: _effects
+      Entry: 7
+      Data: 0|System.Collections.Generic.List`1[[Source.FightModule.Scripts.AbilitySystem.Effects.AbilityEffect,
+        Assembly-CSharp]], mscorlib
+    - Name: 
+      Entry: 12
+      Data: 3
+    - Name: 
+      Entry: 7
+      Data: 1|Source.FightModule.Scripts.AbilitySystem.Effects.AttackEffect, Assembly-CSharp
+    - Name: <Description>k__BackingField
+      Entry: 6
+      Data: 
+    - Name: <UseCountPerTurn>k__BackingField
+      Entry: 3
+      Data: 2
+    - Name: <Cost>k__BackingField
+      Entry: 3
+      Data: 10
+    - Name: <Damage>k__BackingField
+      Entry: 4
+      Data: 5
+    - Name: <IsIgnoredDefence>k__BackingField
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 2|Source.FightModule.Scripts.AbilitySystem.Effects.BuffStat, Assembly-CSharp
+    - Name: <Description>k__BackingField
+      Entry: 6
+      Data: 
+    - Name: <UseCountPerTurn>k__BackingField
+      Entry: 3
+      Data: 1
+    - Name: <Cost>k__BackingField
+      Entry: 3
+      Data: 5
+    - Name: _stat
+      Entry: 7
+      Data: 3|Source.FightModule.Scripts.StatSystem.Defence.DefencePresenter, Assembly-CSharp
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: _modifier
+      Entry: 4
+      Data: 10
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 4|Source.FightModule.Scripts.AbilitySystem.Effects.BuffStat, Assembly-CSharp
+    - Name: <Description>k__BackingField
+      Entry: 6
+      Data: 
+    - Name: <UseCountPerTurn>k__BackingField
+      Entry: 3
+      Data: 1
+    - Name: <Cost>k__BackingField
+      Entry: 3
+      Data: 4
+    - Name: _stat
+      Entry: 7
+      Data: 5|Source.FightModule.Scripts.StatSystem.Energy.EnergyPresenter, Assembly-CSharp
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: _modifier
+      Entry: 4
+      Data: 3
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+  <Cooldown>k__BackingField: 4
+  <UseTurnCount>k__BackingField: 1
+  <Icon>k__BackingField: {fileID: 0}
