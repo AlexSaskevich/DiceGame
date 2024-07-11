@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: AttackFaceConfig
   m_EditorClassIdentifier: 
   <Value>k__BackingField: 1
-  <Icon>k__BackingField: {fileID: 21300000, guid: 7a5b97192793d421ba89b32a0bda245e,
+  <Icon>k__BackingField: {fileID: 21300000, guid: d6aa7cbb4c245432ebf5a25a8cad6ab7,
     type: 3}
   <Description>k__BackingField: 
   <Target>k__BackingField:
