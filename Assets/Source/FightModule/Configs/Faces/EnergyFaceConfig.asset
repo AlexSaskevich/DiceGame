@@ -12,9 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 43bb7b6e40f448e49bd287d90f3bc6f9, type: 3}
   m_Name: EnergyFaceConfig
   m_EditorClassIdentifier: 
-  <MoveCountForActivate>k__BackingField: 1
   <Value>k__BackingField: 1
-  <Icon>k__BackingField: {fileID: 21300000, guid: e4906dde7a5794e52a3d1c089e36bbb3,
+  <Icon>k__BackingField: {fileID: 21300000, guid: 359006ab433e440dabdb1cd3fd00b877,
     type: 3}
   <Description>k__BackingField: 
   <Target>k__BackingField:

@@ -11,7 +11,7 @@ namespace Source.FightModule.Scripts.FaceSystem
     public abstract class FaceConfig : ScriptableObject
     {
         [field: SerializeField, MinValue(0)] public float Value { get; private set; } = 1;
-        [field: SerializeField] public Sprite Icon { get; private set; }
+        [field: SerializeField, PreviewField(ObjectFieldAlignment.Left)] public Sprite Icon { get; private set; }
         [field: SerializeField] public string Description { get; private set; }
         [field: SerializeField] public UnitType Target { get; private set; }
     }

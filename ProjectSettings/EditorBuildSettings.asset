@@ -6,7 +6,7 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Source/FightModule/Scenes/DiceAnimation.unity
+    path: Assets/Source/FightModule/Scenes/MainScene.unity
     guid: 33ea7bba0468c4044b3d94ed85c0c45f
   - enabled: 0
     path: Assets/Source/FightModule/Scenes/DemoDice.unity

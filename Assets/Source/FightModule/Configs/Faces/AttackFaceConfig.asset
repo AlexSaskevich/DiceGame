@@ -12,9 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ebaa3561ad474962b022075f427f4d26, type: 3}
   m_Name: AttackFaceConfig
   m_EditorClassIdentifier: 
-  <MoveCountForActivate>k__BackingField: 1
   <Value>k__BackingField: 1
-  <Icon>k__BackingField: {fileID: 21300000, guid: 55477f0d73fe249a785fe9033b8f3b32,
+  <Icon>k__BackingField: {fileID: 21300000, guid: 7a5b97192793d421ba89b32a0bda245e,
     type: 3}
   <Description>k__BackingField: 
   <Target>k__BackingField:
